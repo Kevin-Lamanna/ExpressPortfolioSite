@@ -4,3 +4,19 @@
 // Student ID: 301224451
 // Date: September 30th 2022
 */
+
+/* About Page personalInfo Div */
+
+
+#personalInfo {
+    position: relative;
+    
+    left: 90px;
+    top: 30px;
+}
+
+#profilePic {
+    position: relative;
+    float: left;
+    
+}
