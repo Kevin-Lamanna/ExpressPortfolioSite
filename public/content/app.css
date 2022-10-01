@@ -9,8 +9,8 @@
 
 #personalInfo {
     position: relative;
-    left: 90px;
-    top: 10px;
+    left: 110px;
+    
 }
 
 #profilePic {
@@ -36,6 +36,10 @@
     left: 175px;
     
 }
+
+
+
+
 
 /* Form CSS */
 
