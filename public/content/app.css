@@ -5,12 +5,12 @@
 // Date: September 30th 2022
 */
 
-/* About Page personalInfo Div */
+/* About Page about Div */
 
 #personalInfo {
     position: relative;
     left: 90px;
-    top: 30px;
+    top: 10px;
 }
 
 #profilePic {
@@ -19,6 +19,23 @@
 }
 
 
+/* Home Page home Div */
+
+#home {
+    display: inline-flex;
+}
+
+#welcome {
+    position: relative;
+    float: left;
+    /* left: -80px; */
+}
+
+#mission {
+    position: relative;
+    left: 175px;
+    
+}
 
 /* Form CSS */
 
